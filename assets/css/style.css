@@ -269,6 +269,7 @@
     border-top: 1px solid var(--color-secondary-);
     width: 100%;
 }
+
 .u_line2 {
     position: relative;
 }
@@ -425,6 +426,7 @@
     .box {
         padding: 10px 10px 0px 0px;
     }
+
     .grad1 {
         padding: 12px 34px;
     }
